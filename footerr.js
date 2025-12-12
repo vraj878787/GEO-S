@@ -84,7 +84,7 @@ class CustomFooter extends HTMLElement {
             <div class="container">
                 <div class="footer-content">
                     <div class="footer-section">
-                        <h3>The Razor's Edge</h3>
+                        <h3>The GEO's Edge</h3>
                         <p>Precision cuts, timeless shaves, and elevated grooming rituals for the modern gentleman.</p>
                         <div class="social-links">
                             <a href="#" aria-label="Instagram"><i data-feather="instagram"></i></a>
