@@ -109,7 +109,7 @@ class CustomNavbar extends HTMLElement {
             </style>
 
             <div class="container">
-                <a href="/" class="logo">The Razor's Edge</a>
+                <a href="/" class="logo">The GEO's Edge</a>
 
                 <div class="nav-links">
                     <a href="#home" class="nav-link">Home</a>
